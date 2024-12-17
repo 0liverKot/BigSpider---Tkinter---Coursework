@@ -1,0 +1,82 @@
+{
+    "players": [
+        {
+            "username": "Dario1",
+            "password": "Password",
+            "high-score": 2,
+            "level": 1
+        },
+        {
+            "username": "Dario2",
+            "password": "Password",
+            "high-score": 4,
+            "level": 3
+        },
+        {
+            "username": "",
+            "password": "",
+            "high-score": 0,
+            "level": 0
+        },
+        {
+            "username": "Account1",
+            "password": "Secure",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "Account2",
+            "password": "pASS",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "Account3",
+            "password": "okay",
+            "high-score": 3,
+            "level": 2
+        },
+        {
+            "username": "New",
+            "password": "Password",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "New1",
+            "password": "Password123",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "user",
+            "password": "123",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "NewAccount",
+            "password": "Password12345",
+            "high-score": 2,
+            "level": 1
+        },
+        {
+            "username": "Tester",
+            "password": "Tester",
+            "high-score": 1,
+            "level": 1
+        },
+        {
+            "username": "LaptopTest",
+            "password": "Password",
+            "high-score": 2,
+            "level": 1
+        },
+        {
+            "username": "akram",
+            "password": "akram1",
+            "high-score": 3,
+            "level": 1
+        }
+    ]
+}
